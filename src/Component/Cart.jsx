@@ -22,8 +22,8 @@ const Cart = ({ Cartdata }) => {
             <a
               href={Cartdata?.url}
               target="_blank"
-              rel="noreferrer"
-              className="w-100 text-center btn btn-danger background"
+              rel="noreferrer" 
+              className="w-100 text-center btn btn-warning background"
             >
               Read Full Artical
             </a>
